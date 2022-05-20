@@ -1,0 +1,41 @@
+body{
+     background-color: rgb(0, 0, 0);
+ }
+
+ a:hover{
+     background-color: rgb(2, 99, 2);     
+ }
+ a{
+     padding:100px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     font-weight: bold;
+     font-size: 18px;     
+ }
+ h1{
+     font-size: 70px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     color: white; 
+ }
+ 
+ .borde{
+    margin-top: 50px;
+}
+h2{
+    color: rgb(2, 99, 2);
+} 
+p{
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+label{
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+.form-check-input{
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;   
+}
+    
